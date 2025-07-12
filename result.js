@@ -14,6 +14,7 @@ students.forEach(student => {
     row.appendChild(studentAggregate);
 
     tableBody.appendChild(row);
+    // new commit
 
 });
 }
